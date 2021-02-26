@@ -1,4 +1,17 @@
-### Hi there 👋
+### Howdy 👋 
+
+## Bret McGowen 
+- ⌨️ Software Engineer (C#, Node.js, Python, Java)
+- 😄 Pronouns: he/him
+- ⌛ Previously:
+  - Google - Developer Advocate for Serverless (Cloud Run, Cloud Functions, App Engine, Firebase)
+  - Rackspace - Software Developer IV
+  - Startups, enterprises, non-profits and more
+- 🏃‍♂️ Running
+- 🦝 Raccoons
+- 🏐 Volleyball
+- 🛫 Travel
+  
 
 <!--
 **bretmcg/bretmcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +24,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Website - [bretmcg.com](https://bretmcg.com/) |
+Twitter - [@BretMcG](https://twitter.com/bretmcg) |
+Instagram - [@BretMc](https://instagram.com/bretmc)
