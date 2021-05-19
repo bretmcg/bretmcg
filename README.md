@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Website - [bretmcg.com](https://bretmcg.com/) |
-Twitter - [@BretMcG](https://twitter.com/bretmcg) |
-Instagram - [@BretMc](https://instagram.com/bretmc)
+# Social Media
+- Website - [bretmcg.com](https://bretmcg.com/)
+- Twitter - [@BretMcG](https://twitter.com/bretmcg)
+- Instagram - [@BretMc](https://instagram.com/bretmc)
+- [Stack Overflow](https://stackoverflow.com/users/768693/bret-mcgowen)
