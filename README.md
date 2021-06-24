@@ -1,7 +1,8 @@
-### Howdy 👋 
+# Howdy 👋 
+I'm Bret McGowen and I'm a software engineer from Texas. 🤠
 
-## Bret McGowen 
-- ⌨️ Software Engineer (C#, Node.js, Python, Java)
+# About Bret McGowen 
+- ⌨️ Software Engineer (C#, Node.js, Python, Java, JavaScript, ColdFusion)
 - 😄 Pronouns: he/him
 - ⌛ Previously:
   - Google - Developer Advocate for Serverless (Cloud Run, Cloud Functions, App Engine, Firebase)
@@ -11,7 +12,13 @@
 - 🦝 Raccoons
 - 🏐 Volleyball
 - 🛫 Travel
-  
+
+# Social Media
+- Website - [bretmcg.com](https://bretmcg.com/)
+- Twitter - [@BretMcG](https://twitter.com/bretmcg)
+- Instagram - [@BretMc](https://instagram.com/bretmc)
+- [Stack Overflow](https://stackoverflow.com/users/768693/bret-mcgowen)
+
 
 <!--
 **bretmcg/bretmcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +33,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
-# Social Media
-- Website - [bretmcg.com](https://bretmcg.com/)
-- Twitter - [@BretMcG](https://twitter.com/bretmcg)
-- Instagram - [@BretMc](https://instagram.com/bretmc)
-- [Stack Overflow](https://stackoverflow.com/users/768693/bret-mcgowen)
