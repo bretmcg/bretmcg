@@ -18,7 +18,8 @@ I'm Bret McGowen and I'm a software engineer from Texas. 🤠
 - Twitter - [@BretMcG](https://twitter.com/bretmcg)
 - Instagram - [@bret.mcgowen](https://instagram.com/bret.mcgowen)
 - [Stack Overflow](https://stackoverflow.com/users/768693/bret-mcgowen)
-- Talks I've given - [Slides](https://www.slideshare.net/bretmc) | [Sessions](https://sessionize.com/bretmcg/)
+- Talks I've given: [slides](https://www.slideshare.net/bretmc),
+    [sessions](https://sessionize.com/bretmcg/), [conferences](https://techconf.me/speakers/379)
 - Facebook - [bret.mcgowen](https://www.facebook.com/bret.mcgowen)
 
 
