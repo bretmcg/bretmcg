@@ -15,12 +15,14 @@ I'm Bret McGowen and I'm a software engineer from Texas. 🤠
 
 # Social Media
 - Website - [bretmcg.com](https://bretmcg.com/)
-- Twitter - [@BretMcG](https://twitter.com/bretmcg)
+- Twitter - [@BretMcG](https://twitter.com/BretMcG)
 - Instagram - [@bret.mcgowen](https://instagram.com/bret.mcgowen)
 - [Stack Overflow](https://stackoverflow.com/users/768693/bret-mcgowen)
+- [About.me](https://about.me/bret.mcgowen)
 - Talks I've given: [slides](https://www.slideshare.net/bretmc),
     [sessions](https://sessionize.com/bretmcg/), [conferences](https://techconf.me/speakers/379)
 - Facebook - [bret.mcgowen](https://www.facebook.com/bret.mcgowen)
+- 🏃[Strava](https://www.strava.com/athletes/4998047)
 
 
 <!--
