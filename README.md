@@ -19,22 +19,13 @@ I'm Bret McGowen and I'm a software engineer from Texas. 🤠
 - Instagram - [@bret.mcgowen](https://instagram.com/bret.mcgowen)
 - [Stack Overflow](https://stackoverflow.com/users/768693/bret-mcgowen)
 - [About.me](https://about.me/bret.mcgowen)
-- Talks I've given: [slides](https://www.slideshare.net/bretmc),
-    [sessions](https://sessionize.com/bretmcg/), [conferences](https://techconf.me/speakers/379)
 - Facebook - [bret.mcgowen](https://www.facebook.com/bret.mcgowen)
 - 🏃[Strava](https://www.strava.com/athletes/4998047)
+- [Medium blog](https://medium.com/@bretmcg/about) - at some point I'll start blogging again!
 
+# Talks
+- [Slides for talks](https://www.slideshare.net/bretmc) I've given
+- Partial list of talks I've given:
+    [sessions](https://sessionize.com/bretmcg/), [conferences](https://techconf.me/speakers/379)
 
-<!--
-**bretmcg/bretmcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- [Google Cloud overview](https://www.youtube.com/watch?v=IViUMN1PcTs) (from 2015)
