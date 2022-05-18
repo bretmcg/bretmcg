@@ -15,7 +15,7 @@ I'm Bret McGowen and I'm a software engineer from Texas. 🤠
 
 # Social Media
 - Website - [bretmcg.com](https://bretmcg.com/)
-- Twitter - [@BretMcG](https://twitter.com/BretMcG)
+- Twitter - [@BretMcG](https://twitter.com/BretMcG) or [@BretMcGowen](https://twitter.com/BretMcGowen)
 - Instagram - [@bret.mcgowen](https://instagram.com/bret.mcgowen)
 - [Stack Overflow](https://stackoverflow.com/users/768693/bret-mcgowen)
 - [About.me](https://about.me/bret.mcgowen)
