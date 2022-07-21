@@ -1,6 +1,9 @@
 # Howdy 👋 
 I'm Bret McGowen and I'm a software engineer from Texas. 🤠
 
+<img src="https://bretmcg.com/img/bret/bret_mcgowen_presentation.jpg"
+  alt="Bret McGowen" width="400" />
+
 # About Bret McGowen 
 - ⌨️ Software Engineer (C#, Node.js, Python, Java, JavaScript, ColdFusion)
 - 😄 Pronouns: he/him
