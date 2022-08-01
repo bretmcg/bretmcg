@@ -36,4 +36,6 @@ I'm Bret McGowen and I'm a software engineer from Texas. 🤠
 - Partial list of talks I've given:
     [sessions](https://sessionize.com/bretmcg/), [conferences](https://techconf.me/speakers/379)
 
+# Videos
 - [Google Cloud overview](https://www.youtube.com/watch?v=IViUMN1PcTs) (from 2015)
+- [Stripe + Ruby on Rails](https://www.youtube.com/watch?v=ulWeW6qFO6I) (from 2013)
