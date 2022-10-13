@@ -30,6 +30,7 @@ I'm Bret McGowen and I'm a software engineer from Texas. 🤠
 - Facebook - [bret.mcgowen](https://www.facebook.com/bret.mcgowen)
 - 🏃[Strava](https://www.strava.com/athletes/4998047)
 - [Medium blog](https://medium.com/@bretmcg/about) - at some point I'll start blogging again!
+- [YouTube Channel @BretMcG](https://youtube.com/@BretMcG) - I'll upload previous talks here
 
 # Talks
 - [Slides for talks](https://www.slideshare.net/bretmc) I've given
