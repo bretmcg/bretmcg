@@ -1,5 +1,6 @@
 # Howdy 👋 
-I'm Bret McGowen and I'm a software engineer from Texas. 🤠
+I'm Bret McGowen, a software engineer from Texas 🤠. Currently in New York City.
+Former Googler.
 
 <img src="https://bretmcg.com/img/bret/bret_mcgowen_presentation.jpg"
   alt="Bret McGowen" width="300" 
