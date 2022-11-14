@@ -1,6 +1,6 @@
 # Howdy 👋 
-I'm Bret McGowen, a software engineer from Texas 🤠. Currently in New York City.
-Former Googler.
+I'm Bret McGowen, a software engineer from Texas 🤠
+Currently in New York City. Former Googler.
 
 <img src="https://bretmcg.com/img/bret/bret_mcgowen_presentation.jpg"
   alt="Bret McGowen" width="300" 
@@ -31,10 +31,11 @@ Former Googler.
 - Facebook - [bret.mcgowen](https://www.facebook.com/bret.mcgowen)
 - 🏃[Strava](https://www.strava.com/athletes/4998047)
 - [Medium blog](https://medium.com/@bretmcg/about) - at some point I'll start blogging again!
-- [YouTube Channel @BretMcG](https://youtube.com/@BretMcG) - I'll upload previous talks here
+- [YouTube Channel @BretMcG](https://www.youtube.com/c/BretMcG) - I'll upload previous talks here
 
 # Talks
-- [Slides for talks](https://www.slideshare.net/bretmc) I've given
+- [Slideshare slides](https://www.slideshare.net/bretmc)
+- [Speaker Deck slides](https://speakerdeck.com/bretmcg)
 - Partial list of talks I've given:
     [sessions](https://sessionize.com/bretmcg/), [conferences](https://techconf.me/speakers/379)
 
