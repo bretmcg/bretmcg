@@ -12,15 +12,15 @@ Currently in New York City. Former Googler.
 
 # About Bret McGowen 
 - ⌨️ Software Engineer (C#, Node.js, Python, Java, JavaScript, ColdFusion)
-- 😄 Pronouns: he/him
 - ⌛ Previously:
-  - Google - Developer Advocate for Serverless (Cloud Run, Cloud Functions, App Engine, Firebase)
+  - [Bret McGowen at Google](https://bretmcg.com/google-cloud-serverless/) - Developer Advocate for Serverless (Cloud Run, Cloud Functions, App Engine, Firebase)
   - Rackspace - Software Developer IV
   - Startups, enterprises, non-profits and more
 - 🏃‍♂️ Running
 - 🦝 Raccoons
 - 🏐 Volleyball
 - 🛫 Travel
+- 😄 Pronouns: he/him
 
 # Social Media
 - Website - [bretmcg.com](https://bretmcg.com/)
