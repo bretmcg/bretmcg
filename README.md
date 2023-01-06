@@ -1,6 +1,6 @@
 # Howdy 👋 
 I'm Bret McGowen, a software engineer from Texas 🤠
-Currently in New York City. Former Googler.
+Currently in New York City. Previously at Google.
 
 <img src="https://bretmcg.com/img/bret/bret_mcgowen_presentation.jpg"
   alt="Bret McGowen" width="300" 
@@ -24,21 +24,23 @@ Currently in New York City. Former Googler.
 
 # Social Media
 - Website - [bretmcg.com](https://bretmcg.com/)
+- LinkTree - [linktr.ee/bretmcg](https://linktr.ee/bretmcg)
 - Twitter - [@BretMcG](https://twitter.com/BretMcG) or [@BretMcGowen](https://twitter.com/BretMcGowen)
 - Instagram - [@bret.mcgowen](https://instagram.com/bret.mcgowen)
 - [Stack Overflow](https://stackoverflow.com/users/768693/bret-mcgowen)
 - [About.me](https://about.me/bret.mcgowen)
 - Facebook - [bret.mcgowen](https://www.facebook.com/bret.mcgowen)
 - 🏃[Strava](https://www.strava.com/athletes/4998047)
-- [Medium blog](https://medium.com/@bretmcg/about) - at some point I'll start blogging again!
+- [Medium blog](https://medium.com/@bretmcg/about), [Hashnode blog](https://hashnode.com/@bretmcg) - at some point I'll start blogging again!
 - [YouTube Channel @BretMcG](https://www.youtube.com/c/BretMcG) - I'll upload previous talks here
 
 # Talks
 - [Slideshare slides](https://www.slideshare.net/bretmc)
-- [Speaker Deck slides](https://speakerdeck.com/bretmcg)
+- [Speaker Deck - Google Cloud slides](https://speakerdeck.com/bretmcg)
 - Partial list of talks I've given:
     [sessions](https://sessionize.com/bretmcg/), [conferences](https://techconf.me/speakers/379)
 
 # Videos
 - [Google Cloud overview](https://www.youtube.com/watch?v=IViUMN1PcTs) (from 2015)
 - [Stripe + Ruby on Rails](https://www.youtube.com/watch?v=ulWeW6qFO6I) (from 2013)
+- [Track Cloud costs with Rackspace and Cloudability](https://www.youtube.com/watch?v=q8LEmgH38YM) (from 2013)
