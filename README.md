@@ -35,7 +35,7 @@ Currently in New York City. Previously at Google.
 - [YouTube Channel @BretMcG](https://www.youtube.com/c/BretMcG) - I'll upload previous talks here
 
 # Talks
-- [Slideshare slides](https://www.slideshare.net/bretmc)
+- [Slideshare - Google Cloud slides](https://www.slideshare.net/bretmc)
 - [Speaker Deck - Google Cloud slides](https://speakerdeck.com/bretmcg)
 - Partial list of talks I've given:
     [sessions](https://sessionize.com/bretmcg/), [conferences](https://techconf.me/speakers/379)
