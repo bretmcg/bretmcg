@@ -2,7 +2,7 @@
 I'm Bret McGowen, a software engineer from Texas 🤠
 Currently in New York City. Previously at Google.
 
-<img src="https://bretmcg.com/img/bret/bret_mcgowen_presentation.jpg"
+<img src="https://bretmcg.com/img/bret/bret_mcgowen_presentation.webp"
   alt="Bret McGowen" width="300" 
 /> <img src="https://bretmcg.com/img/bret/bret_mcgowen_i_love_tacos.webp"
   alt="Bret McGowen in front of an I Love Tacos sign" width="300"
