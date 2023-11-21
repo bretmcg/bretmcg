@@ -4,9 +4,9 @@ Currently in New York City. Previously at Google.
 
 <img src="https://bretmcg.com/img/bret/bret_mcgowen_presentation.jpg"
   alt="Bret McGowen" width="300" 
-/> <img src="https://bretmcg.com/img/bret/bret_mcgowen_i_love_tacos.jpg"
+/> <img src="https://bretmcg.com/img/bret/bret_mcgowen_i_love_tacos.webp"
   alt="Bret McGowen in front of an I Love Tacos sign" width="300"
-/> <img src="https://bretmcg.com/img/running/bret-mcgowen-running-sydney.jpg"
+/> <img src="https://bretmcg.com/img/running/bret-mcgowen-running-sydney.webp"
   alt="Bret McGowen running in front of the Sydney Opera House" width="300"
 />
 
