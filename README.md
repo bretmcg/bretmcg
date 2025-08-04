@@ -1,6 +1,6 @@
 # Howdy 👋 
 I'm Bret McGowen, a software engineer from Texas 🤠
-Currently in New York City. Previously at Google.
+Currently in New York City. Previously at Google, Rackspace.
 
 <img src="https://bretmcg.com/img/bret/bret_mcgowen_presentation.webp"
   alt="Bret McGowen" width="300" 
